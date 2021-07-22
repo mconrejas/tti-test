@@ -1,0 +1,11 @@
+.social-media-icon {
+    --tw-bg-opacity: 1;
+    fill: rgba(55, 65, 81, var(--tw-bg-opacity));
+}
+.social-media-icon:hover {
+    --tw-bg-opacity: 1;
+    fill: rgba(185, 28, 28, var(--tw-bg-opacity));
+}
+.hover-icon:hover * {
+    margin-bottom: 0.5rem;
+}
